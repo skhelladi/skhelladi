@@ -8,12 +8,12 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=researchgate&logoSize=auto">
 </a>
 
-<a href="https://x.com/s_khelladi" target="_blank">
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/skhelladi?style=for-the-badge">
-</a>
-
 <a href="https://scholar.google.com/citations?user=Gn5zOUMAAAAJ&hl=fr" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Google%20scholar-white?style=for-the-badge&logo=google-scholar">
+</a>
+
+<a href="https://x.com/s_khelladi" target="_blank">
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/skhelladi?style=for-the-badge">
 </a>
 
 </div>  
