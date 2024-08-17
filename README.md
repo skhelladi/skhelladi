@@ -1,6 +1,11 @@
 ## Hi there 👋
+<div align="center">
+  
 ![github info 1](https://github-readme-stats.vercel.app/api?username=skhelladi&show_icons=true\&theme=nord&include_all_commits=true)
+
 ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=skhelladi&langs_count=20&theme=nord&layout=donut)
+
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=skhelladi&&style=flat-square" align="center" />
