@@ -17,11 +17,6 @@
 <br/>  
 
 <div align="center">
-<a href="mailto:sofiane@khelladi.page" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Sofiane_KHELLADI-sofiane%40khelladi.page-red?style=flat&label=%F0%9F%93%AB%20Reach%20me%20at%3A&color=red&link=mailto%3Asofiane%40khelladi.page">
-</a>    
-<br/>
-<br/>
 <a href="https://sofiane.khelladi.page/" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/Sofiane_KHELLADI-web_site-red?style=plastic&logo=simple-icon&color=red">
 </a>
