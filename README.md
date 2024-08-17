@@ -1,4 +1,10 @@
 ## Hi there 👋
+![github info 1](https://github-readme-stats.vercel.app/api?username=skhelladi&show_icons=true\&theme=nord&include_all_commits=true)
+![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=skhelladi&langs_count=20&theme=nord&layout=donut)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=skhelladi&&style=flat-square" align="center" />
+</div>
 
 <!--
 **skhelladi/skhelladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
