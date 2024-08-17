@@ -18,6 +18,6 @@
 
 <div align="center">
 <a href="https://sofiane.khelladi.page/" target="_blank">
- <img alt="Static Badge" src="https://img.shields.io/badge/Sofiane_KHELLADI-web_site-red?style=plastic&logo=simple-icon&color=red">
+<img alt="Static Badge" src="https://img.shields.io/badge/Sofiane%20KHELLADI's-web_site-red?style=plastic&logo=simple-icon&color=red">
 </a>
 </div>
