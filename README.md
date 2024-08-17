@@ -18,12 +18,6 @@
 <br/>  
 
 <div align="center">
-  
-![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=skhelladi&langs_count=20&theme=nord&layout=donut)
-
-</div>
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=skhelladi&&style=flat-square" align="center" />
 </div>
 <!--
